@@ -21,6 +21,7 @@
 		A2D8EF3B19C865050011207C /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A2D8EF1D19C865050011207C /* UIKit.framework */; };
 		A2D8EF4319C865050011207C /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A2D8EF4119C865050011207C /* InfoPlist.strings */; };
 		A2D8EF4519C865050011207C /* Age_Of_LaikaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A2D8EF4419C865050011207C /* Age_Of_LaikaTests.m */; };
+		A2D8EF4F19C866730011207C /* SpaceDog.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A2D8EF4E19C866730011207C /* SpaceDog.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		A2D8EF4019C865050011207C /* Age Of LaikaTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Age Of LaikaTests-Info.plist"; sourceTree = "<group>"; };
 		A2D8EF4219C865050011207C /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A2D8EF4419C865050011207C /* Age_Of_LaikaTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Age_Of_LaikaTests.m; sourceTree = "<group>"; };
+		A2D8EF4E19C866730011207C /* SpaceDog.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SpaceDog.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		A2D8EF2019C865050011207C /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A2D8EF4E19C866730011207C /* SpaceDog.jpg */,
 				A2D8EF2119C865050011207C /* Age Of Laika-Info.plist */,
 				A2D8EF2219C865050011207C /* InfoPlist.strings */,
 				A2D8EF2519C865050011207C /* main.m */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2D8EF4F19C866730011207C /* SpaceDog.jpg in Resources */,
 				A2D8EF3219C865050011207C /* Images.xcassets in Resources */,
 				A2D8EF2419C865050011207C /* InfoPlist.strings in Resources */,
 				A2D8EF2D19C865050011207C /* Main.storyboard in Resources */,

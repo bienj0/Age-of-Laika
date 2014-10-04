@@ -9,5 +9,13 @@
 #import <UIKit/UIKit.h>
 
 @interface RRViewController : UIViewController
+@property (strong, nonatomic) IBOutlet UILabel *dogYearsLabel;
+
+- (IBAction)convertToDogYears:(UIButton *)sender;
+
+@property (strong, nonatomic) IBOutlet UITextField *humanYearsTextField;
+
+- (IBAction)convertToRealDogYearsButtonPressed:(UIButton *)sender;
+@property (strong, nonatomic) IBOutlet UILabel *realDogYearsLabel;
 
 @end
